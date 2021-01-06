@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(168, 160, 160);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: rgb(75, 102, 28);
+    text-align: center;
+  }
+  
+  table {
+    border: 2px solid rgb(53, 89, 90);
+    width: 900px;    
+    margin: 0 auto;
+    background-color: rgb(148, 151, 149);
+    
+    
+  } 
+  
+  .first {
+    background-color: rgb(196, 189, 189);
+  }
+
+
+  thead {
+    background-color: darkcyan;
+  }
+  
+  td {
+    border-top: 1px solid rgb(2, 95, 2);
+  }
+  
+  .code {
+    font-family: monospace;
+    background-color: rgb(196, 189, 189);
+  }
